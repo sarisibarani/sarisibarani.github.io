@@ -2,7 +2,7 @@
 # PT. Sangkakala Indah 
 
 ---
-=> Untuk Android APK > Download [SANGKAKALA INDAH - APK](https://github.com/sarisibarani/sarisibarani.github.io/raw/main/sari-skripsi)
+=> Untuk Android APK -> Download [SANGKAKALA INDAH - APK](https://raw.githubusercontent.com/sarisibarani/sarisibarani.github.io/main/sari-skripsi.apk)
 ---
 => Untuk IOS : 
 1. Install Expo Go di App Store
