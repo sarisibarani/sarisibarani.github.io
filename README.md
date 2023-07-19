@@ -3,6 +3,7 @@
 Untuk Konsumen Melakukan Pemesanan Silakan Download dan Install Aplikasi Berikut : 
 ---
 => Untuk Android APK -> Download [SANGKAKALA INDAH - APK](https://raw.githubusercontent.com/sarisibarani/sarisibarani.github.io/main/sari-skripsi.apk)
+<br>
 ---
 => Untuk IOS : 
 1. Install Expo Go di App Store
