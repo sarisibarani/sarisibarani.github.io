@@ -2,7 +2,7 @@
 # PT. Sangkakala Indah 
 
 ---
-Android APK > Download [EVENT - APK](https://github.com/kevinxcode/publish-app/raw/main/apk/ct-event_v7.apk)
+=> Untuk Android APK > Download [SANGKAKALA INDAH - APK](https://github.com/sarisibarani/sarisibarani.github.io/raw/main/sari-skripsi)
 ---
 => Untuk IOS : 
 1. Install Expo Go di App Store
