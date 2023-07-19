@@ -1,6 +1,6 @@
 
 # PT. Sangkakala Indah 
-Untuk Konsumen Melakukan Pemesanan Silakan Download dan Install Aplikasi Berikut : 
+Untuk Konsumen Melakukan Pemesanan Silakan Download dan Install Aplikasi Berikut : <br>
 ---
 => Untuk Android APK -> Download [SANGKAKALA INDAH - APK](https://raw.githubusercontent.com/sarisibarani/sarisibarani.github.io/main/sari-skripsi.apk)
 <br>
